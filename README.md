@@ -3,6 +3,10 @@ Xamarin.iOS binding for @TimOliver's TORoundedButton: https://github.com/TimOliv
 
 ![Screenshot of TORoundedButton](https://raw.githubusercontent.com/TimOliver/TORoundedButton/master/screenshot.jpg)
 
+## Install
+
+NuGet: [TORoundedButton](https://www.nuget.org/packages/TORoundedButton)
+
 ## Use
 
 ```
@@ -12,4 +16,4 @@ var button = new RoundedButton("TORoundedButton");
 ```
 
 ## Build
-See `build.yaml`
+See `build.yml`
