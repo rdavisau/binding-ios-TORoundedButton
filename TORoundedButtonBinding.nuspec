@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>TORoundedButton</id>
+    <version>1.1.2</version>
+    <title>TORoundedButton for Xamarin.iOS</title>
+    <authors>Tim Oliver, Ryan Davis</authors>
+    <owners>Ryan Davis</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/rdavisau/binding-ios-TORoundedButton</projectUrl>
+    <description>Xamarin.iOS binding for Tim Oliver's TORoundedButton (https://github.com/TimOliver/TORoundedButton)</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>TORoundedButton, ios</tags>
+  </metadata>
+  <files>
+    <file 
+      src="src\TORoundedButtonBinding\TORoundedButtonBinding\bin\Release\TORoundedButton.dll" 
+      target="lib\Xamarin.iOS10\TORoundedButton.dll" 
+    />
+  </files>
+</package>
